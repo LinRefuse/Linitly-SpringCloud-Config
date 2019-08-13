@@ -1,7 +1,7 @@
 spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
-    driver-class-name: com.mysql.cj.jdbc.Driver
+    driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/linitly-springcloud?useSSL=false&useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&useAffectedRows=true
     username: root
     password: root
