@@ -1,1 +1,2 @@
-foo: test1
+foo:
+  foo: test1
