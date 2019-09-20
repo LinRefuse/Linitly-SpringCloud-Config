@@ -15,3 +15,7 @@ spring:
 
 foo:
   foo: feign-test
+
+feign:
+  hystrix:
+    enabled: true
