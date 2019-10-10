@@ -1,6 +1,6 @@
 zuul:
   #路由前缀，可用作版本控制
-  prefix: @version@
+  prefix: /v1.0
   routes:
     feign-client: /feign-client/**
     service-provider: /service-provider/**
