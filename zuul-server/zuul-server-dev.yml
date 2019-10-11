@@ -1,11 +1,15 @@
 zuul:
   routes:
-    feign-client: /feign-client/**
-    service-provider: /service-provider/**
+    feign-client:
+      path: /feign-client/**
+      serviceId: feign-client
+      #转发前是否去掉路由前缀，默认为true，此处是去掉feign-client服务的路由前缀
+#      strip-prefix: false
+    service-provider:
+      path: /service-provider/**
+      serviceId: service-provider
 
 management:
-  security:
-    enabled: false
   endpoints:
     web:
       base-path: /actu       #修改前缀，默认是/actuator
