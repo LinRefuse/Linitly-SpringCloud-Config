@@ -1,8 +1,4 @@
 zuul:
-  #忽略所有微服务默认，只路由指定的微服务，默认情况下，只要引入了zuul后，就会自动一个默认的路由配置，但有些时候我们可能不想要默认的路由配置规则，想自己进行定义
-  ignored-services: "*"
-  #转发前是否去掉路由前缀，默认为true
-  strip-prefix: false
   routes:
     feign-client: /feign-client/**
     service-provider: /service-provider/**
