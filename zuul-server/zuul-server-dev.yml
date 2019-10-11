@@ -4,6 +4,8 @@ zuul:
     service-provider: /service-provider/**
 
 management:
+  security:
+    enabled: false
   endpoints:
     web:
       base-path: /actu       #修改前缀，默认是/actuator
