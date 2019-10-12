@@ -26,11 +26,10 @@ management:
         include: "*"         #暴露所有端点 默认是info,health
 
 ribbon:
-  #当调用某个服务等待时间过长的时候, 对超时报错/熔断生效的是ReadTimeout,ConnectTimeout则表示连接服务的时间,一般不用配置太久,1~2秒左右就可以了
   #http建立socket超时时间，单位毫秒
-  connectTimeout: 1000
+  connectTimeout: 3000
   #http读取响应socket超时时间
-  readTimeout: 3000
+  readTimeout: 1000
   #同一台实例最大重试次数,不包括首次调用
   maxAutoRetries: 1
   #重试负载均衡其他的实例最大重试次数,不包括首次server
