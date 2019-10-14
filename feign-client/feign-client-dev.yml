@@ -25,26 +25,26 @@ management:
       exposure:
         include: "*"         #暴露所有端点 默认是info,health
 
-#ribbon:
-#  #http建立socket超时时间，单位毫秒
-#  connectTimeout: 1000
-#  #http读取响应socket超时时间
-#  readTimeout: 3000
-#  #同一台实例最大重试次数,不包括首次调用
-#  maxAutoRetries: 1
-#  #重试负载均衡其他的实例最大重试次数,不包括首次server
-#  maxAutoRetriesNextServer: 1
-#  #是否所有操作都重试
-#  okToRetryOnAllOperations: true
-#
-#feign:
-#  hystrix:
-#    enabled: true
-#
-#hystrix:
-#  command:
-#    default:
-#      execution:
-#        isolation:
-#          thread:
-#            timeoutInMilliseconds: 9000        #断路器超时时间，默认1000ms
+ribbon:
+  #http建立socket超时时间，单位毫秒
+  connectTimeout: 1000
+  #http读取响应socket超时时间
+  readTimeout: 3000
+  #同一台实例最大重试次数,不包括首次调用
+  maxAutoRetries: 1
+  #重试负载均衡其他的实例最大重试次数,不包括首次server
+  maxAutoRetriesNextServer: 1
+  #是否所有操作都重试
+  okToRetryOnAllOperations: true
+
+feign:
+  hystrix:
+    enabled: true
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 9000        #断路器超时时间，默认1000ms
