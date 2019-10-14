@@ -31,7 +31,7 @@ ribbon:
   #http读取响应socket超时时间
   readTimeout: 3000
   #同一台实例最大重试次数,不包括首次调用
-  maxAutoRetries: 1
+  maxAutoRetries: 0
   #重试负载均衡其他的实例最大重试次数,不包括首次server
   maxAutoRetriesNextServer: 1
   #是否所有操作都重试
@@ -47,4 +47,4 @@ hystrix:
       execution:
         isolation:
           thread:
-            timeoutInMilliseconds: 60000        #断路器超时时间，默认1000ms
+            timeoutInMilliseconds: 5000        #断路器超时时间，默认1000ms
