@@ -25,29 +25,29 @@ management:
       exposure:
         include: "*"         #暴露所有端点 默认是info,health
 
-ribbon:
-  #http建立socket超时时间，单位毫秒
-  connectTimeout: 5000
-  #http读取响应socket超时时间
-  readTimeout: 5000
-  #同一台实例最大重试次数,不包括首次调用
-#  maxAutoRetries: 0
-  #重试负载均衡其他的实例最大重试次数,不包括首次server
-#  maxAutoRetriesNextServer: 1
-  #是否所有操作都重试
-#  okToRetryOnAllOperations: true
-
-feign:
-  hystrix:
-    enabled: true
-
-hystrix:
-  command:
-    default:
-      execution:
-        timeout:
-          #如果enabled设置为false，则请求超时交给ribbon控制,为true,则超时作为熔断根据
-          enabled: true
-        isolation:
-          thread:
-            timeoutInMilliseconds: 5000        #断路器超时时间，默认1000ms
+#ribbon:
+#  #http建立socket超时时间，单位毫秒
+#  connectTimeout: 5000
+#  #http读取响应socket超时时间
+#  readTimeout: 5000
+#  #同一台实例最大重试次数,不包括首次调用
+##  maxAutoRetries: 0
+#  #重试负载均衡其他的实例最大重试次数,不包括首次server
+##  maxAutoRetriesNextServer: 1
+#  #是否所有操作都重试，默认只有get请求重试，post等接口如果没有幂等性设计，后果严重
+##  okToRetryOnAllOperations: true
+#
+#feign:
+#  hystrix:
+#    enabled: true
+#
+#hystrix:
+#  command:
+#    default:
+#      execution:
+#        timeout:
+#          #如果enabled设置为false，则请求超时交给ribbon控制,为true,则超时作为熔断根据
+#          enabled: true
+#        isolation:
+#          thread:
+#            timeoutInMilliseconds: 5000        #断路器超时时间，默认1000ms
