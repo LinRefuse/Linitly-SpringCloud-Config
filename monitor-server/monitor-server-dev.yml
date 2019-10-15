@@ -28,8 +28,8 @@ spring:
         title: "Linitly-应用监控平台"
         # 修改网页的brand的图标和标题
         brand: "<img src='assets/img/icon-spring-boot-admin.svg'><span>Linitly-应用监控平台</span>"
-      client:
-        instance:
-          management-base-url: /actu
-          health-url: healthcheck
+      discovery:
+        converter:
+          management-context-path: /actu
+          health-endpoint-path: healthCheck
 
