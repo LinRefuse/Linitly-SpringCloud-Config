@@ -7,3 +7,21 @@ turbine:
   combineHostPort: true
   #如果被监控的服务中设置了context-path,需要在Turbine中指定turbine.instanceUrlSuffix来解决
   instanceUrlSuffix: actu/hystrix.stream
+
+management:
+  endpoints:
+    web:
+      base-path: /actu       #修改前缀，默认是/actuator
+      path-mapping:
+        health: healthcheck  #修改健康检查路由
+      exposure:
+        include: "*"         #暴露所有端点 默认是info,health
+    endpoint:
+      health:
+        show-details: ALWAYS
+
+spring:
+  boot:
+    admin:
+      ui:
+        title: "Linitly-应用监控"
