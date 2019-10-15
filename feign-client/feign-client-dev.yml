@@ -51,3 +51,9 @@ hystrix:
         isolation:
           thread:
             timeoutInMilliseconds: 9000        #断路器超时时间，默认1000ms
+
+logging:
+  config: classpath:log/logback-spring.xml
+  level:
+    com.siwei.life.insurance.dao: debug
+  file: ./log-@af@/feign-client.log

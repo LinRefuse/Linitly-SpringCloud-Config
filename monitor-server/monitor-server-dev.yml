@@ -28,3 +28,9 @@ spring:
         title: "Linitly-应用监控平台"
         # 修改网页的brand的图标和标题
         brand: "<img src='assets/img/icon-spring-boot-admin.svg'><span>Linitly-应用监控平台</span>"
+
+logging:
+  config: classpath:log/logback-spring.xml
+  level:
+    com.siwei.life.insurance.dao: debug
+  file: ./log-@artifactId@/@artifactId@.log
