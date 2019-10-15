@@ -12,8 +12,6 @@ management:
   endpoints:
     web:
       base-path: /actu       #修改前缀，默认是/actuator
-      path-mapping:
-        health: healthcheck  #修改健康检查路由
       exposure:
         include: "*"         #暴露所有端点 默认是info,health
     endpoint:
@@ -31,5 +29,3 @@ spring:
       discovery:
         converter:
           management-context-path: /actu
-          health-endpoint-path: "healthCheck"
-
