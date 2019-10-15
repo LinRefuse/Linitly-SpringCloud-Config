@@ -24,6 +24,9 @@ management:
         health: healthcheck  #修改健康检查路由
       exposure:
         include: "*"         #暴露所有端点 默认是info,health
+    endpoint:
+      health:
+        show-details: ALWAYS
 
 ribbon:
   #http建立socket超时时间，单位毫秒
