@@ -23,7 +23,6 @@ management:
 spring:
   boot:
     admin:
-      context-path: /actu
       ui:
         # 修改网页显示的tab标题
         title: "Linitly-应用监控平台"
