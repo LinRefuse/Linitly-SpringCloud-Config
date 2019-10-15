@@ -6,12 +6,12 @@ turbine:
   #可以让同一主机上的服务通过主机名与端口号的组合来进行区分，默认情况下会以 host 来区分不同的服务，这会使得在本地调试的时候，本机上的不同服务聚合成一个服务来统计
   combineHostPort: true
   #如果被监控的服务中设置了context-path,需要在Turbine中指定turbine.instanceUrlSuffix来解决
-  instanceUrlSuffix: actu/hystrix.stream
+  instanceUrlSuffix: ${eureka.instance.metadata-map.management.context-path}/hystrix.stream
 
 management:
   endpoints:
     web:
-      base-path: /actu       #修改前缀，默认是/actuator
+      base-path: /${eureka.instance.metadata-map.management.context-path}       #修改前缀，默认是/actuator
       exposure:
         include: "*"         #暴露所有端点 默认是info,health
     endpoint:
@@ -26,6 +26,3 @@ spring:
         title: "Linitly-应用监控平台"
         # 修改网页的brand的图标和标题
         brand: "<img src='assets/img/icon-spring-boot-admin.svg'><span>Linitly-应用监控平台</span>"
-      discovery:
-        converter:
-          management-context-path: /actu
