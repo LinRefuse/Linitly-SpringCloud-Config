@@ -19,9 +19,9 @@ foo:
 management:
   endpoints:
     web:
-      base-path: /actu       #修改前缀，默认是/actuator
+      base-path: /${info.actuator-prefix}       #修改前缀，默认是/actuator
       path-mapping:
-        health: healthcheck  #修改健康检查路由
+        health: ${info.health-check-url}  #修改健康检查路由
       exposure:
         include: "*"         #暴露所有端点 默认是info,health
     endpoint:

@@ -1,5 +1,5 @@
 turbine:
-  #参数指定了需要收集监控信息的服务名
+  #参数指定了需要收集监控信息的服务名，多个使用逗号隔开
   appConfig: feign-client
   #参数指定了集群名称为 default，当我们服务数量非常多的时候，可以启动多个 Turbine 服务来构建不同的聚合集群，而该参数可以用来区分这些不同的聚合集群，同时该参数值可以在 Hystrix 仪表盘中用来定位不同的聚合集群，只需要在 Hystrix Stream 的 URL 中通过 cluster 参数来指定；
   clusterNameExpression: "'default'"
