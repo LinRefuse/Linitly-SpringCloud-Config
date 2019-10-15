@@ -24,4 +24,7 @@ spring:
   boot:
     admin:
       ui:
-        title: "Linitly-应用监控"
+        # 修改网页显示的tab标题
+        title: "Linitly-应用监控平台"
+        # 修改网页的brand的图标和标题
+        brand: "<img src='assets/img/icon-spring-boot-admin.svg'><span>Linitly-应用监控平台</span>"
