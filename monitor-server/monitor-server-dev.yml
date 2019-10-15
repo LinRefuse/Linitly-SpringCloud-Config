@@ -31,3 +31,4 @@ spring:
       discovery:
         converter:
           management-context-path: /actu
+          health-endpoint-path: healthCheck
