@@ -55,5 +55,5 @@ hystrix:
 logging:
   config: classpath:log/logback-spring.xml
   level:
-    com.linitly: debug
+    com.linitly.feign.client.dao: debug
 #  file: ./log-${spring.application.name}/${spring.application.name}.log
