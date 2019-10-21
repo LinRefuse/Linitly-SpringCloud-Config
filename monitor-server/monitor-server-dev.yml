@@ -33,4 +33,4 @@ logging:
   config: classpath:log/logback-spring.xml
   level:
     com.linitly.monitor.server.dao: debug
-  file: ./log-@artifactId@/@artifactId@.log
+  file: ./log-${spring.application.name}/${spring.application.name}.log
