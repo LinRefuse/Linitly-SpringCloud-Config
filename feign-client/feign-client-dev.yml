@@ -56,4 +56,4 @@ logging:
   config: classpath:log/logback-spring.xml
   level:
     com.siwei.life.insurance.dao: debug
-  file: ./log-@af@/feign-client.log
+  file: ./log-${spring.application.name}/${spring.application.name}.log
