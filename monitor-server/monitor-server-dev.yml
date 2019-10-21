@@ -32,5 +32,5 @@ spring:
 logging:
   config: classpath:log/logback-spring.xml
   level:
-    com.siwei.life.insurance.dao: debug
+    com.linitly.monitor.server.dao: debug
   file: ./log-${spring.application.name}/${spring.application.name}.log
