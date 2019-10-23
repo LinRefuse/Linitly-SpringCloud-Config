@@ -1,0 +1,54 @@
+foo:
+  foo: zuul
+
+zuul:
+  retryable: true
+  routes:
+    feign-client:
+      path: /feign-client/**
+      serviceId: feign-client
+      #转发前是否去掉路由前缀，默认为true，此处是去掉feign-client服务的路由前缀
+#      strip-prefix: false
+    service-provider:
+      path: /service-provider/**
+      serviceId: service-provider
+
+management:
+  endpoints:
+    web:
+      base-path: /${info.actuator-prefix}       #修改前缀，默认是/actuator
+      path-mapping:
+        health: ${info.health-check-url}  #修改健康检查路由
+      exposure:
+        include: "*"         #暴露所有端点 默认是info,health
+    endpoint:
+      health:
+        show-details: ALWAYS
+
+ribbon:
+  #http建立socket超时时间，单位毫秒
+  ConnectTimeout: 1000
+  #http读取响应socket超时时间
+  ReadTimeout: 3000
+  #同一台实例最大重试次数,不包括首次调用
+  MaxAutoRetries: 0
+  #重试负载均衡其他的实例最大重试次数,不包括首次server
+  MaxAutoRetriesNextServer: 1
+
+feign:
+  hystrix:
+    enabled: true
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 9000        #断路器超时时间，默认1000ms
+
+logging:
+  config: classpath:log/logback-spring.xml
+  level:
+    com.linitly.feign.client.dao: debug
+  file: ./log-${spring.application.name}/${spring.application.name}.log

@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9551a157-16c6-4d61-b536-44b586dc8c01" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-768633559">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="yml" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="YAML" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="913" />
+          <entry key="yml" value="1408" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="913" />
+          <entry key="YAML" value="1408" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="5" />
+          <entry key="git.branch.create.new" value="1" />
+          <entry key="git.branch.merge" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/feign-client/feign-client-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1.0.0" />
+      </map>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/work/android/android" value="PREVIEW" />
+        <entry key="E:/android/android" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/turbine-server/turbine-server-dev.yml" />
+        <option value="$PROJECT_DIR$/service-provider/service-provider-dev.yml" />
+        <option value="$PROJECT_DIR$/monitor-server/monitor-server-dev.yml" />
+        <option value="$PROJECT_DIR$/zuul-server/zuul-server-dev.yml" />
+        <option value="$PROJECT_DIR$/feign-client/feign-client-dev.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\repository" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1022" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>WebSocket</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Linitly-SpringCloud-Config" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Linitly-SpringCloud-Config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Linitly-SpringCloud-Config" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Linitly-SpringCloud-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="feign-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Linitly-SpringCloud-Config" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Linitly-SpringCloud-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="monitor-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Linitly-SpringCloud-Config" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Linitly-SpringCloud-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="service-provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Linitly-SpringCloud-Config" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Linitly-SpringCloud-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/SpringCloudConfig/Linitly-SpringCloud-Config/service-provider/service-provider-dev.yml" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571137881663" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="E:/SpringCloudProjects/siweiFrame" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SpringCloudConfig\Linitly-SpringCloud-Config\monitor-server" />
+      <recent name="E:\SpringCloudConfig\Linitly-SpringCloud-Config\zuul-server" />
+      <recent name="E:\SpringCloudConfig\Linitly-SpringCloud-Config\turbine-server" />
+      <recent name="E:\SpringCloudConfig\Linitly-SpringCloud-Config\feign-client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9551a157-16c6-4d61-b536-44b586dc8c01" name="Default Changelist" comment="" />
+      <created>1568947514360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568947514360</updated>
+      <workItem from="1568947516418" duration="2940000" />
+      <workItem from="1569200023942" duration="608000" />
+      <workItem from="1569286124048" duration="1201000" />
+      <workItem from="1569372680789" duration="1207000" />
+      <workItem from="1569459032141" duration="3102000" />
+      <workItem from="1569545339955" duration="869000" />
+      <workItem from="1569718124403" duration="1986000" />
+      <workItem from="1569805533838" duration="1210000" />
+      <workItem from="1570496675548" duration="1807000" />
+      <workItem from="1570586359546" duration="5483000" />
+      <workItem from="1570668605286" duration="7048000" />
+      <workItem from="1570761394830" duration="5649000" />
+      <workItem from="1570841661602" duration="9379000" />
+      <workItem from="1571014020722" duration="12173000" />
+      <workItem from="1571100908516" duration="15278000" />
+      <workItem from="1571189470474" duration="611000" />
+      <workItem from="1571368910224" duration="646000" />
+      <workItem from="1571619128498" duration="5580000" />
+      <workItem from="1571730558171" duration="1091000" />
+      <workItem from="1571737657503" duration="9245000" />
+    </task>
+    <task id="LOCAL-00029" summary="修改feign-client的熔断时间配置">
+      <created>1571016061741</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1571016061741</updated>
+    </task>
+    <task id="LOCAL-00030" summary="修改feign-client的ribbon重试配置">
+      <created>1571016494354</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1571016494354</updated>
+    </task>
+    <task id="LOCAL-00031" summary="修改feign-client的ribbon时间配置">
+      <created>1571016543242</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1571016543242</updated>
+    </task>
+    <task id="LOCAL-00032" summary="修改feign-client的ribbon时间配置">
+      <created>1571019025407</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1571019025407</updated>
+    </task>
+    <task id="LOCAL-00033" summary="修改feign-client的ribbon时间配置">
+      <created>1571019386902</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1571019386902</updated>
+    </task>
+    <task id="LOCAL-00034" summary="切换feign-client和service-provider的超时时间配置">
+      <created>1571019537002</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1571019537002</updated>
+    </task>
+    <task id="LOCAL-00035" summary="修改hystrix配置">
+      <created>1571019618766</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1571019618766</updated>
+    </task>
+    <task id="LOCAL-00036" summary="关闭重试机制">
+      <created>1571019775538</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1571019775538</updated>
+    </task>
+    <task id="LOCAL-00037" summary="ribbon超时时间修改">
+      <created>1571020213645</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1571020213645</updated>
+    </task>
+    <task id="LOCAL-00038" summary="超时时间配置关闭">
+      <created>1571020409927</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1571020409927</updated>
+    </task>
+    <task id="LOCAL-00039" summary="网关超时时间和feign-client超时时间配置恢复">
+      <created>1571022575167</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1571022575167</updated>
+    </task>
+    <task id="LOCAL-00040" summary="修改监控文件配置文件名称和目录">
+      <created>1571038830814</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1571038830814</updated>
+    </task>
+    <task id="LOCAL-00041" summary="监控配置文件修改(去除数据库相关配置)">
+      <created>1571045629198</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1571045629198</updated>
+    </task>
+    <task id="LOCAL-00042" summary="监控配置文件修改，添加端口暴漏">
+      <created>1571105920405</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1571105920405</updated>
+    </task>
+    <task id="LOCAL-00043" summary="修改健康监控相关配置文件">
+      <created>1571106157825</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1571106157825</updated>
+    </task>
+    <task id="LOCAL-00044" summary="修改健康监控相关配置文件">
+      <created>1571108147985</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1571108147985</updated>
+    </task>
+    <task id="LOCAL-00045" summary="修改admin监控平台标题">
+      <created>1571108458130</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1571108458130</updated>
+    </task>
+    <task id="LOCAL-00046" summary="修改admin监控平台标题">
+      <created>1571109205170</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1571109205170</updated>
+    </task>
+    <task id="LOCAL-00047" summary="修改admin监控平台标题">
+      <created>1571109392982</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1571109392982</updated>
+    </task>
+    <task id="LOCAL-00048" summary="修改admin监控平台监控地址(测试监控是否有效)">
+      <created>1571110728456</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1571110728456</updated>
+    </task>
+    <task id="LOCAL-00049" summary="修改admin监控平台监控地址(测试监控是否有效)">
+      <created>1571110896572</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1571110896572</updated>
+    </task>
+    <task id="LOCAL-00050" summary="修改admin监控平台监控地址(测试监控是否有效)">
+      <created>1571111563994</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1571111564000</updated>
+    </task>
+    <task id="LOCAL-00051" summary="修改admin监控平台监控地址(测试监控是否有效)">
+      <created>1571111810279</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1571111810279</updated>
+    </task>
+    <task id="LOCAL-00052" summary="修改admin配置错误">
+      <created>1571111974212</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1571111974212</updated>
+    </task>
+    <task id="LOCAL-00053" summary="尝试修改admin配置信息，监控自定义端点">
+      <created>1571118177983</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1571118177983</updated>
+    </task>
+    <task id="LOCAL-00054" summary="尝试修改admin配置信息，监控自定义端点">
+      <created>1571118423662</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1571118423662</updated>
+    </task>
+    <task id="LOCAL-00055" summary="健康检查路由恢复默认">
+      <created>1571120190297</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1571120190297</updated>
+    </task>
+    <task id="LOCAL-00056" summary="修改monitor配置">
+      <created>1571121657466</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1571121657466</updated>
+    </task>
+    <task id="LOCAL-00057" summary="修改monitor配置">
+      <created>1571129712519</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1571129712520</updated>
+    </task>
+    <task id="LOCAL-00058" summary="修改相关健康管理路由信息">
+      <created>1571131323245</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1571131323245</updated>
+    </task>
+    <task id="LOCAL-00059" summary="配置日志信息">
+      <created>1571135718573</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1571135718573</updated>
+    </task>
+    <task id="LOCAL-00060" summary="修改日志生成配置信息">
+      <created>1571621322411</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1571621322412</updated>
+    </task>
+    <task id="LOCAL-00061" summary="测试logback日志打印问题，修改配置信息">
+      <created>1571621897185</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1571621897186</updated>
+    </task>
+    <task id="LOCAL-00062" summary="修改logback的错误配置">
+      <created>1571622018730</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1571622018731</updated>
+    </task>
+    <task id="LOCAL-00063" summary="修改logback配置">
+      <created>1571622313154</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1571622313154</updated>
+    </task>
+    <task id="LOCAL-00064" summary="修改logback配置">
+      <created>1571652986159</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1571652986159</updated>
+    </task>
+    <task id="LOCAL-00065" summary="修改logback配置">
+      <created>1571653380474</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1571653380475</updated>
+    </task>
+    <task id="LOCAL-00066" summary="修改logback配置">
+      <created>1571653823172</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1571653823172</updated>
+    </task>
+    <task id="LOCAL-00067" summary="zuul-server添加foo:foo配置，方便componentScan带来的扫描到service-provider包使用@value导致的报错">
+      <created>1571799060854</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1571799060854</updated>
+    </task>
+    <task id="LOCAL-00068" summary="修改网关暴露端点和日志添加">
+      <created>1571800023849</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1571800023849</updated>
+    </task>
+    <task id="LOCAL-00069" summary="feign-client添加swagger的请求地址配置">
+      <created>1571810783016</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1571810783016</updated>
+    </task>
+    <task id="LOCAL-00070" summary="修改feign-client的swagger文档地址">
+      <created>1571811607499</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1571811607499</updated>
+    </task>
+    <task id="LOCAL-00071" summary="修改feign-client的配置测试信息foo:foo">
+      <created>1571818331893</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1571818331893</updated>
+    </task>
+    <task id="LOCAL-00072" summary="修改feign-client的配置测试信息foo:foo和rabbitmq配置">
+      <created>1571818603108</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1571818603108</updated>
+    </task>
+    <task id="LOCAL-00073" summary="修改feign-client的配置测试信息foo:foo">
+      <created>1571818637122</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1571818637122</updated>
+    </task>
+    <task id="LOCAL-00074" summary="修改feign-client的配置测试信息foo:foo">
+      <created>1571819093989</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1571819093989</updated>
+    </task>
+    <task id="LOCAL-00075" summary="修改feign-client的配置测试信息foo:foo">
+      <created>1571819308016</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1571819308016</updated>
+    </task>
+    <task id="LOCAL-00076" summary="修改feign-client的配置测试信息foo:foo">
+      <created>1571820365482</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1571820365482</updated>
+    </task>
+    <task id="LOCAL-00077" summary="修改feign-client的配置测试信息foo:foo">
+      <created>1571824419044</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1571824419044</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87113000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14658849" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32899022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="ribbon超时时间修改" />
+    <MESSAGE value="超时时间配置关闭" />
+    <MESSAGE value="网关超时时间和feign-client超时时间配置恢复" />
+    <MESSAGE value="修改监控文件配置文件名称和目录" />
+    <MESSAGE value="监控配置文件修改(去除数据库相关配置)" />
+    <MESSAGE value="监控配置文件修改，添加端口暴漏" />
+    <MESSAGE value="修改健康监控相关配置文件" />
+    <MESSAGE value="修改admin监控平台标题" />
+    <MESSAGE value="修改admin监控平台监控地址(测试监控是否有效)" />
+    <MESSAGE value="修改admin配置错误" />
+    <MESSAGE value="尝试修改admin配置信息，监控自定义端点" />
+    <MESSAGE value="健康检查路由恢复默认" />
+    <MESSAGE value="修改monitor配置" />
+    <MESSAGE value="修改相关健康管理路由信息" />
+    <MESSAGE value="配置日志信息" />
+    <MESSAGE value="修改日志生成配置信息" />
+    <MESSAGE value="测试logback日志打印问题，修改配置信息" />
+    <MESSAGE value="修改logback的错误配置" />
+    <MESSAGE value="修改logback配置" />
+    <MESSAGE value="zuul-server添加foo:foo配置，方便componentScan带来的扫描到service-provider包使用@value导致的报错" />
+    <MESSAGE value="修改网关暴露端点和日志添加" />
+    <MESSAGE value="feign-client添加swagger的请求地址配置" />
+    <MESSAGE value="修改feign-client的swagger文档地址" />
+    <MESSAGE value="修改feign-client的配置测试信息foo:foo和rabbitmq配置" />
+    <MESSAGE value="修改feign-client的配置测试信息foo:foo" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改feign-client的配置测试信息foo:foo" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/turbine-server/turbine-server-dev.yml" />
+    <entry file="file://$PROJECT_DIR$/service-provider/service-provider-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitor-server/monitor-server-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-server/zuul-server-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feign-client/feign-client-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
