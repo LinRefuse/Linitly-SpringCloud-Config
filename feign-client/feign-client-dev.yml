@@ -14,7 +14,7 @@ spring:
       min-evictable-idle-time-millis: 300000
 
 foo:
-  foo: feign-test
+  foo: feign-test-2
 
 management:
   endpoints:
