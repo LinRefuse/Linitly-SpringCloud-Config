@@ -62,4 +62,4 @@ springfox:
   documentation:
     swagger:
       v2:
-        path: /v@version@/v2/api-docs          #修改swagger的请求路径，默认为/v2/api-docs
+        path: /v${info.version}/v2/api-docs          #修改swagger的请求路径，默认为/v2/api-docs
