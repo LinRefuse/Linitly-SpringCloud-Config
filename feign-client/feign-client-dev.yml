@@ -57,3 +57,9 @@ logging:
   level:
     com.linitly.feign.client.dao: debug
   file: ./log-${spring.application.name}/${spring.application.name}.log
+
+springfox:
+  documentation:
+    swagger:
+      v2:
+        path: /v@version@/v2/api-docs          #修改swagger的请求路径，默认为/v2/api-docs
