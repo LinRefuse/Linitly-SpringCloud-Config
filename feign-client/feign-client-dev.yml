@@ -20,7 +20,7 @@ spring:
     password: guest
 
 foo:
-  foo: feign-test-5
+  foo: feign-test-6
 
 management:
   endpoints:
