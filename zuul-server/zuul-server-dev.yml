@@ -1,3 +1,6 @@
+foo:
+  foo: zuul
+
 zuul:
   retryable: true
   routes:
